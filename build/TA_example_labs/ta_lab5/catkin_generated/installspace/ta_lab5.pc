@@ -1,0 +1,8 @@
+prefix=/home/yzhz-ubuntu1604/racebot_ws/install
+
+Name: ta_lab5
+Description: Description of ta_lab5
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/yzhz-ubuntu1604/racebot_ws/install/lib 
+Requires: message_runtime rospy sensor_msgs std_msgs

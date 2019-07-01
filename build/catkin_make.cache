@@ -1,0 +1,2 @@
+TA_example_labs/ta_lab3:TA_example_labs/ta_lab4:TA_example_labs/ta_lab5:TA_example_labs/ta_lab6
+-DCATKIN_DEVEL_PREFIX=/home/yzhz-ubuntu1604/racebot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/yzhz-ubuntu1604/racebot_ws/install -G Unix Makefiles
